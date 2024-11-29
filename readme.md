@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/mcnlty/trophyworldgosford.au/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/mcnlty/trophyworldgosford.au" alt="license">
+    <img src="https://img.shields.io/github/license/zeon-studio/hugoplate" alt="license">
   </a>
 </p>
 
