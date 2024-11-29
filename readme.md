@@ -3,7 +3,7 @@
 <h2 align="center">Hugo + Tailwind CSS + Hugoplate</h2>
 
 <p align="center">
-  <a href="https://github.com/zeon-studio/hugoplate/blob/main/LICENSE">
+  <a href="https://github.com/mcnlty/trophyworldgosford.au/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/mcnlty/trophyworldgosford.au" alt="license">
   </a>
 </p>
